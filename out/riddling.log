@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.22)  1 JUL 2016 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.7)  23 JUL 2016 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,8 +734,8 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 82.
 
-[3] (./out/bottles.tex) (./out/perfect_triangular_pyramid.tex)
-(./out/bottles2.tex) [4] [5] [6] [7]
+[3] (./out/src/sk/bottles.tex) (./out/src/sk/perfect_triangular_pyramid.tex)
+(./out/src/sk/bottles2.tex) [4] [5] [6] [7]
 Overfull \hbox (22.85794pt too wide) in paragraph at lines 198--199
 \OML/cmm/m/it/10 x[]; x[]; :::; x[]; x[]$ \OT1/cmr/m/n/10 that make up a cy-cle
 , which means their con-tent is $\OML/cmm/m/it/10 x[]; x[]; :::; x[]; x[]$\OT1/
@@ -773,24 +773,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 228.
 
 [10] [11] [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (out/riddling.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
 Package rerunfilecheck Info: File `riddling.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 303.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
- 17927 strings out of 494953
- 327677 string characters out of 6180977
- 412426 words of memory out of 5000000
- 20838 multiletter control sequences out of 15000+600000
+ 17933 strings out of 494953
+ 327794 string characters out of 6180978
+ 412516 words of memory out of 5000000
+ 20841 multiletter control sequences out of 15000+600000
  13096 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,6n,54p,1370b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -807,10 +803,10 @@ amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on out/riddling.pdf (13 pages, 321359 bytes).
+Output written on out/riddling.pdf (13 pages, 335834 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 285 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
